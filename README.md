@@ -1,2 +1,2 @@
 # microbial-dormancy
-Trait-based understanding of complexity of microbial dormancy and its impacts on organic matter decomposition 
+To seek a trait-based understanding of the complexity of microbial dormancy, seed banks, and impacts on organic matter decomposition 
